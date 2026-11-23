@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="5 dlcd" src="https://github.com/user-attachments/assets/7064e766-b7bd-4e67-b44b-329590a67557" /># EXP-5-DFF-TFF
+/># EXP-5-DFF-TFF
 # Design and Verification of D Flip-Flop and T Flip-Flop
 ## Aim
 To design and verify a D Flip-Flop and a T Flip-Flop using Verilog HDL, and to observe their behaviour using a testbench and VCD waveform.
